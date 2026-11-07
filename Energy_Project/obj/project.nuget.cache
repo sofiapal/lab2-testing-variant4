@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vKyY6y/ujts=",
+  "success": true,
+  "projectFilePath": "D:\\Users\\User\\Downloads\\lab2-testing-variant4\\Energy_Project\\Energy_Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.22\\microsoft.windowsdesktop.app.ref.9.0.22.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.22\\microsoft.netcore.app.ref.9.0.22.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.22\\microsoft.aspnetcore.app.ref.9.0.22.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.22\\microsoft.netcore.app.host.win-x64.9.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
